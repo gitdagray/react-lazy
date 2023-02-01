@@ -31,7 +31,7 @@
 
 ### 💻 Source Code
 
-- 🔗 [Source Code for this tutorial](https://github.com/gitdagray/react-lazy)
+🔗 [Source Code for this tutorial](https://github.com/gitdagray/react-lazy)
 
 ---
 
