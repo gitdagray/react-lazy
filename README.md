@@ -25,7 +25,7 @@
 
 ### Description
 
-📺 [YouTube Video]() for this repository.
+📺 [YouTube Video](https://youtu.be/nS5qbSJLGx8) for this repository.
 
 ---
 
